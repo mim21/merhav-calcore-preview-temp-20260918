@@ -40,6 +40,14 @@ body {
   text-decoration: underline;
 }
 .site-subscribe-unavailable { color: var(--cc-muted); font-size: var(--cc-font-meta); }
+.cal-embed { margin-block: var(--cc-space); }
+.cal-embed iframe {
+  inline-size: 100%;
+  block-size: clamp(240px, 42vh, 420px);
+  border: 0;
+  border-radius: var(--cc-radius);
+  display: block;
+}
 .event-search, .event-filters, .category-chips {
   margin-block: calc(var(--cc-space) * 2);
 }
