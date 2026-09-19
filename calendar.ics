@@ -6,8 +6,8 @@ X-WR-CALNAME:מרחב בריא – אירועים
 X-WR-CALDESC:לוח אירועי מרחב בריא — תצוגה מקדי
  מה (Calendar Core)
 BEGIN:VEVENT
-UID:tekes-mesicha-tantri-20260917@merhav-bari
-DTSTAMP:20250226T150355Z
+UID:3091d7993bf2e35c4f6f28d1ccbe512c@merhav-bari
+DTSTAMP:20230113T205924Z
 DTSTART:20260917T170000Z
 DTEND:20260917T190000Z
 SUMMARY:אלון גושן ודודי וויסבורט — טקס משיחה
@@ -17,13 +17,14 @@ DESCRIPTION:בהנחיית אלון גושן ודודי וויסבורט\n
  טקס משיחה טנטרי בהנחיית אלון גושן ודודי 
  וויסבורט. ההשתתפות מותנית בשיחת התאמה אי
  שית ובהרשמה מראש\, תוך שמירה על איזון מגד
- רי.
-URL:https://mim21.github.io/merhav-bari/#event-טקס-משיחה-טנטרי
- -20260917-2000
+ רי.\nhttps://mim21.github.io/merhav-bari/#event-טקס-משיחה-טנט
+ רי-20260917-2000
+URL:https://mim21.github.io/merhav-bari/#event-%D7%98%D7%A7%D7%A1-%D7%9E%D7
+ %A9%D7%99%D7%97%D7%94-%D7%98%D7%A0%D7%98%D7%A8%D7%99-20260917-2000
 END:VEVENT
 BEGIN:VEVENT
-UID:wild-ginger-festigal-20260919@merhav-bari
-DTSTAMP:20250226T150355Z
+UID:1a5925c31c611f098160cd034ac03182@merhav-bari
+DTSTAMP:20230113T205924Z
 DTSTART:20260919T150000Z
 DTEND:20260919T210000Z
 SUMMARY:Wild Ginger — לא יאומן כי יכורבל — כירבול
@@ -32,27 +33,33 @@ LOCATION:פנטהאוז בחולון
 DESCRIPTION:בהנחיית Wild Ginger\nערב כרבולים אפלטונ
  י עם הקרנת פסטיגלים מכל התקופות. אין ציפי
  יה למגע\, וכל משתתף ומשתתפת בוחרים את הקצ
- ב והמרחב המתאימים להם. במקום יש ממ"ד.
-URL:https://mim21.github.io/merhav-bari/#event-לא-יאומן-כי-יכו
- רבל-כירבוליית-פסטיגל-20260919-1800
+ ב והמרחב המתאימים להם. במקום יש ממ״ד.\nhttps:
+ //mim21.github.io/merhav-bari/#event-לא-יאומן-כי-יכורבל-כ
+ ירבוליית-פסטיגל-20260919-1800
+URL:https://mim21.github.io/merhav-bari/#event-%D7%9C%D7%90-%D7%99%D7%90%D7
+ %95%D7%9E%D7%9F-%D7%9B%D7%99-%D7%99%D7%9B%D7%95%D7%A8%D7%91%D7%9C-%D7%9B%D
+ 7%99%D7%A8%D7%91%D7%95%D7%9C%D7%99%D7%99%D7%AA-%D7%A4%D7%A1%D7%98%D7%99%D7
+ %92%D7%9C-20260919-1800
 END:VEVENT
 BEGIN:VEVENT
-UID:deepcontact-yesodot-20261013@merhav-bari
-DTSTAMP:20250226T150355Z
-DTSTART:20261013T180000Z
-DTEND:20261013T203000Z
+UID:de80c4861cda0acc099edef7b5759032@merhav-bari
+DTSTAMP:20230113T205924Z
+DTSTART:20261013T170000Z
+DTEND:20261013T193000Z
 SUMMARY:קורס יסודות DeepContact — עין שמר
 LOCATION:סטודיו תנע\, עין שמר
 DESCRIPTION:בהנחיית DeepContact\nקורס יסודות בן 14 מפ
  גשים ללימוד טכניקה ועבודת גוף ולהעמקת תק
  שורת ומערכות יחסים באמצעות DeepContact\, בקבוצ
- ה תהליכית ובמרחב בטוח.
-URL:https://mim21.github.io/merhav-bari/#event-קורס-יסודות-DeepCo
- ntact-עין-שמר-20261013-2000
+ ה תהליכית ובמרחב בטוח.\nhttps://mim21.github.io/merhav-b
+ ari/#event-קורס-יסודות-DeepContact-עין-שמר-20261013-2000
+URL:https://mim21.github.io/merhav-bari/#event-%D7%A7%D7%95%D7%A8%D7%A1-%D7
+ %99%D7%A1%D7%95%D7%93%D7%95%D7%AA-DeepContact-%D7%A2%D7%99%D7%9F-%D7%A9%D7
+ %9E%D7%A8-20261013-2000
 END:VEVENT
 BEGIN:VEVENT
-UID:arts-of-love-november-20261130@merhav-bari
-DTSTAMP:20250226T150355Z
+UID:6196ef193f27d4690fe120912ca52c75@merhav-bari
+DTSTAMP:20230113T205924Z
 DTSTART:20261130T160000Z
 DTEND:20261130T193000Z
 SUMMARY:יניב גולד (אוקאס) — ARTS OF LOVE — מחזור נו
@@ -62,8 +69,10 @@ DESCRIPTION:בהנחיית יניב גולד (אוקאס)\nקורס מעש
  י בן עשרה מפגשים באומנויות האהבה\, היחסים
   והמיניות בדרך הטנטרה\, בשילוב ידע מערבי\,
   התפתחות אישית\, מגע ומיניות מודעת. הקורס 
- מתקיים ללא עירום וללא מגע נועז.
-URL:https://mim21.github.io/merhav-bari/#event-ARTS-OF-LOVE-מחזור-נו
- במבר-20261130-1800
+ מתקיים ללא עירום וללא מגע נועז.\nhttps://mim21.gi
+ thub.io/merhav-bari/#event-ARTS-OF-LOVE-מחזור-נובמבר-20261130-1
+ 800
+URL:https://mim21.github.io/merhav-bari/#event-ARTS-OF-LOVE-%D7%9E%D7%97%D7
+ %96%D7%95%D7%A8-%D7%A0%D7%95%D7%91%D7%9E%D7%91%D7%A8-20261130-1800
 END:VEVENT
 END:VCALENDAR
